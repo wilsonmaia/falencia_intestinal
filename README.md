@@ -6,7 +6,7 @@ Com base em materiais disponíveis, foi estabelecido o critério de 6 semanas em
 - Utilizou-se um modelo de classificação para permitir a identificação de novos casos nos registros hospitalares e, assim, identificar quantos casos ocorrem em determinados estados do país. A base para a criação do modelo foram casos dos estados de São Paulo, Minas Gerais, Rio Grande do Sul, Santa Catarina e Bahia.
 - Os dados brutos encontram-se disponíveis para download no DataSUS, Sistemas de Informações Hospitalares do SUS (SIHSUS) (http://www2.datasus.gov.br/DATASUS/index.php?area=0901)
 - Em construção...
-
+- Dashboard com alguns gráficos a mais https://rpubs.com/wilsonmaia/material_extra
 ## Procedimentos (em Nutrição parenteral)
 
 - 030901007-1 Nutrição parenteral em adulto 
@@ -29,4 +29,4 @@ Com base em materiais disponíveis, foi estabelecido o critério de 6 semanas em
 
 - **0309010071** Nutricao parenteral em adultos
 - **0309010080** Nutricao parenteral em neonatologia 
-**0309010098** Nutricao parenteral em pediatria
+- **0309010098** Nutricao parenteral em pediatria
