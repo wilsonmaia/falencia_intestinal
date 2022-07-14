@@ -1,4 +1,8 @@
 # Falência Intestinal (FI)
+
+Esse trabalho foi sugerido em um encontro e se desenvolveu a partir de apenas alguns apontamentos. As necessidades de balanceio e estratificação de grupos, assim como o teste com outros modelos preditivos ainda serão feitos em um momento oportuno.
+
+
 ## Análise de dados do Sistema de Informações de Saúde do Ministério da Saúde.
 
 - Foram coletados dados do Sistema de Informações Hospitalares em duas bases separadas, a de Autorizações de Internações Hospitalares Reduzidas (AIH-RD) e a de Serviços Profissionais (SP). As bases foram cruzadas através do número de registro da AIH.
